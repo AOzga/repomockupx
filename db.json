@@ -3,32 +3,56 @@
       {
          "id":1,
          "station":"Main Assembly",
-         "item":"VBC05-12342"
+         "item":"VBC05-12342",
+         "start" : "2022-08-11T08:25:43.511Z",
+         "end" : null,
+         "operator" : "OPR-JAN-KOL",
+         "quality_operator": ""
       },
       {
          "id":2,
          "station":"Main Assembly",
-         "item":"VBC05-12343"
+         "item":"VBC05-12343",
+         "start" : "2022-08-10T08:25:43.511Z",
+         "end" : null,
+         "operator" : "OPR-Jx-Fx",
+         "quality_operator": ""
       },
       {
          "id":3,
          "station":"Leak Test",
-         "item":"MPE-L-12352"
+         "item":"MPE-L-12352",
+         "start" : "2022-08-11T09:25:43.511Z",
+         "end" : null,
+         "operator" : "OPR-WOJTE-JEZIE",
+         "quality_operator": ""
       },
       {
          "id":4,
          "station":"eeeTest",
-         "item":"MPE-L-15352"
+         "item":"MPE-L-15352",
+         "start" : "2022-08-02T08:25:43.511Z",
+         "end" : null,
+         "operator" : "OPR-EYOB-KIBRE",
+         "quality_operator": ""
       },
       {
          "id":5,
          "station":"Leaktt",
-         "item":"MPE-L-12452"
+         "item":"MPE-L-12452",
+         "start" : "2022-08-03T08:25:43.511Z",
+         "end" : null,
+         "operator" : "OPR-AMADE-OZGA",
+         "quality_operator": ""
       },
       {
          "id":6,
          "station":"furkt",
-         "item":"MPE-L-1xx32"
+         "item":"MPE-L-1xx32",
+         "start" : "2022-08-04T08:25:43.511Z",
+         "end" : null,
+         "operator" : "OPR-KRZYS-ORLIK",
+         "quality_operator": ""
       }
    ],
    "sysname":{
